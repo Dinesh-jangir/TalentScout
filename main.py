@@ -1,1 +1,0 @@
-print("Telent Scount")
